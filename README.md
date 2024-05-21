@@ -8,10 +8,10 @@ The description of the firmware architecture, the integration with the standard 
 
 Simone D'Angelo, Francesca Pagano, Francesco Longobardi, Fabio Ruggiero, Vincenzo Lippiello, "Efficient Development of Model-Based Controllers in PX4 Firmware: A Template-Based Customization Approach", submitted to the 2024 International Conference on Unmanned Aircraft System (ICUAS ’24)  June 4-7, Chania, Crete, Greece
 
-This work is currently under review
+This work is accepted at ICUAS 24 conference - June 4/7 - Chania, Greece 
 
 ## Video
-
+https://youtu.be/pLzkwnk1ZOg?si=Bs1qD45nfEzjWUk4
 
 # How to use
 Clone the repository with submodules <br />
