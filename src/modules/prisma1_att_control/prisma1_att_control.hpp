@@ -29,8 +29,8 @@
 #include <uORB/topics/ft_sensor.h>
 // End Custom
 
-#define TILT_CONTROL
-// #define GEOM_CONTROL
+// #define TILT_CONTROL
+#define GEOM_CONTROL
 // #define PASS_CONTROL
 
 #if defined GEOM_CONTROL
