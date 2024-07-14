@@ -87,8 +87,8 @@
 #include <uORB/topics/debug_key_value.h>
 #include <cstring>
 
-#define TILT_CONTROL
-// #define GEOM_CONTROL
+// #define TILT_CONTROL
+#define GEOM_CONTROL
 // #define PASS_CONTROL
 
 #if defined GEOM_CONTROL
